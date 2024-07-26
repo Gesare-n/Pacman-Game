@@ -61,7 +61,7 @@ canvasContext.stroke();
 - **`ghost.png`**: Provides sprite frames for ghosts.
 
 ## Development
-- **Code Editor**: Use any text editor or IDE of your choice (e.g., Visual Studio Code, Sublime Text).
+- **Code Editor**: Visual Studio Code
 - **Version Control**: The project uses Git for version control. Make sure to commit your changes and push to the repository regularly.
 
 ## Contributing
