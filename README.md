@@ -21,7 +21,7 @@ This is a classic Pacman game implementation using HTML5 Canvas and JavaScript. 
 ## Red Circles Explanation
 The red circles that appear around the view of the game are used for debugging purposes. They represent the range within which the ghosts are able to detect and chase Pacman. If you see these circles, it means the game is currently showing the detection range of the ghosts. To remove these circles in the final game version, you would need to modify the `draw()` method in the `ghost.js` file by removing or commenting out the following lines:
 
-```javascript
+``javascript
 canvasContext.beginPath();
 canvasContext.strokeStyle = "red";
 canvasContext.arc(
